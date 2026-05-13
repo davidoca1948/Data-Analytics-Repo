@@ -1,0 +1,62 @@
+My Script for Data Presentation
+
+Slide 1: Title Slide
+“Iowa Liquor Sales Breakdown: Gin Insights (2014)”
+
+“Today I’ll be walking you through an overview of how Gin performed across Iowa in 2014.
+The goal of this analysis is to understand where Gin is succeeding, where it’s struggling, and where there are clear opportunities or risks moving forward.
+This is meant to support smarter decisions around distribution, marketing, and growth strategy.”
+
+Slide 2: Scenario – Let’s Understand Where We Are
+
+“Before we talk about results, I want to level‑set on what we’re trying to understand.
+This analysis looks at Gin sales throughout the year across counties and stores in Iowa. We’re asking a few key business questions:
+Where is Gin performing well?
+Where is it underperforming?
+And how does Gin compare to competing categories like Vodka?
+
+Slide 3: Summary of Stats (2014)
+“At a high level, Gin generated approximately $10.7 million in revenue across Iowa in 2014.
+The average bottle price was about $12.67, which tells us Gin sits comfortably in the mid‑price range — accessible, but not positioned as a premium-only product.
+Polk County stands out as the top-performing county, which signals strong urban demand.
+This overview gives us the baseline — Gin is a meaningful revenue driver, but performance varies widely by location.”
+
+Slide 4: Strengths – Best Performing Counties
+
+“Looking at strengths, we see that Gin performs exceptionally well in counties like Polk, Johnson, and Linn.
+Polk County alone generates significantly more revenue than other counties, indicating strong consumer demand in high‑population or urbanized areas.
+This tells us two things:
+First, Gin clearly resonates in certain markets.
+Second, when distribution and demand align, Gin can scale very effectively.”
+
+Slide 5: Weaknesses – Worst Performing Counties
+
+“On the other end of the spectrum, we see several counties generating very low Gin revenue.
+Counties like Adams, Taylor, and Davis show minimal sales activity, which may point to limited distribution, lower demand, or lack of awareness.
+This isn’t necessarily a failure, but it does highlight uneven market penetration.
+If left unaddressed, these gaps can limit overall growth.”
+
+If we look at one example where they have been many sales despite not having much population. We can see Dickinson county has sky rocketed in sales despite only having 
+around 16,000 population where other low performing only have 3-4,000 less population but way worse sales. This shows when we can focus a little more on these low populated areas 
+we can still make big impact and get the best out of them.
+
+Slide 6: Opportunities – Population vs Sales
+
+“One of the clearest opportunities comes from looking at sales alongside population.
+Higher‑population counties consistently generate higher Gin revenue, which suggests demand scales with population density.
+This creates an opportunity to focus marketing efforts, promotions, or expanded distribution in populated regions where Gin already has momentum — rather than spreading resources evenly across the state.”
+
+Slide 7: Threats – Gin vs Vodka
+
+“No analysis is complete without addressing competition.
+When we compare Gin to Vodka, we see that Vodka dominates total sales, accounting for roughly 90% of transactions, while Gin represents a much smaller share.
+Customers may choose Vodka over Gin based on price, availability, or cocktail trends.
+This presents a real threat: if consumer preferences shift further toward Vodka, Gin could lose market share unless it differentiates itself.”
+
+Slide 8: Recommendations for the Future
+
+“Based on this analysis, there are three clear actions to consider.
+First, expand distribution in underperforming counties where there may be untapped potential.
+Second, double down on promoting bestselling Gin products in high‑performing counties.
+And third, focus growth strategies on high‑population areas where demand is already proven.
+Together, these steps help strengthen Gin’s position while mitigating competitive pressure from Vodka.”

@@ -1,0 +1,11 @@
+DATA Bootcamp
+
+How do we measure correlation?
+A number between -1 and 1
+
+Descriptive Analysis/Summary Analysis
+Using things like min, max, count, avg etc..
+
+Qualitative Data
+Measured by quality not by numbers
+You can count though

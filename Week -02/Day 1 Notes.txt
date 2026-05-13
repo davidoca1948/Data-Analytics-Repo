@@ -1,0 +1,41 @@
+04/13 - 04/17 Notes
+
+Database:
+A table of information
+Stored in server that is easily accessible
+
+Why do we need to know SQL
+Because Excel has a limit to what it can do
+(It has 1 million rows)
+
+Flat Data:
+A small piece of data
+
+The cloud:
+A collection of servers that hold a lot of information
+
+One thing about SQL is that SQL cannot create graphs
+If you want to make one you have to pull the data form SQL and put into Excel, PowerBI, or Python to make a graph
+
+Primary Key:
+Is a unique identifier
+
+FROM command:
+Choosing which table
+
+SELECT command:
+Choosing which column we see
+
+WHERE command:
+Chooses/filters the rows
+
+ORDER BY command:
+Sorts the results (ASC Limit 1, DESC Limit 1)
+
+Wildcard % command:
+For fuzzy match
+
+SELECT Distinct:
+Helps us find the unique value in the columns
+
+Difference between "=" and "ILIKE" is that equal is exact output but ILIKE is a fuzzy match

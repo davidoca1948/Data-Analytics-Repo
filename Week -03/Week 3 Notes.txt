@@ -1,0 +1,15 @@
+Week 04/20-04/24
+
+Aggregations:
+Min, Max, Count, Sum, Avg
+
+HAVING is the WHERE for aggregations
+
+DATE_TRUNC
+When you want to choose a specific part of the date.
+(date_part,column)
+
+DATE_PART
+Only shows limited amounts about specific part of the date 
+Combines all revenue of that specifc year, month, day
+(date_part,column)
